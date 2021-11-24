@@ -30,9 +30,29 @@ img {
 ul {
     width: 5%;
     margin: auto;
+    
 }
 
 ol {
     width: 10%;
     margin: auto;
+    
+}
+
+.box{
+    background-color: violet;
+    padding: 10px;
+    border: 5px solid white;
+    
+}
+
+.box2{
+    background-color: violet;
+    padding: 20px 40px;
+    border: 5px solid white;
+    
+}
+
+li {
+    
 }
